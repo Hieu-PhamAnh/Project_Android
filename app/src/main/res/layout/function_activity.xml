@@ -161,7 +161,7 @@
                 android:layout_margin="10dp"
                 android:layout_weight="1"
                 android:background="#2196F3"
-                android:text="NGƯỜI DÙNG"
+                android:text="CHỨC NĂNG:"
                 android:textAlignment="center"
                 android:textColor="#090808"
                 android:textSize="24sp" />

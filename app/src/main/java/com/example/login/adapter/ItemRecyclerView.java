@@ -48,7 +48,7 @@ public class ItemRecyclerView extends RecyclerView.Adapter<ItemRecyclerView.Item
     public void onBindViewHolder(@NonNull ItemViewHolder holder, int position) {
         Item o = list.get(position);
         holder.name.setText(o.getName());
-        holder.price.setText(o.getPrice()+"VND");
+        holder.price.setText(o.getPrice()+"$");
         holder.brand.setText(o.getBrand());
         Picasso.get().load(o.getImg()).into(holder.imgItem);
         Activity activity = this.activity;
