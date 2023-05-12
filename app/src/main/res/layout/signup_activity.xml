@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context="com.example.login.activity.user.LoginActivity">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:drawablePadding="50dp"
+        android:text="ĐĂNG KÍ"
+        android:textColor="@color/black"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/regis_name"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+    <EditText
+        android:id="@+id/regis_name"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/border_6_white"
+        android:drawableLeft="@drawable/ic_baseline_account_circle_24"
+        android:drawablePadding="20dp"
+        android:gravity="center_vertical"
+        android:hint="Tên người dùng"
+        android:paddingLeft="18dp"
+        android:singleLine="true"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textView1" />
+
+    <EditText
+        android:id="@+id/regis_username"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/border_6_white"
+        android:drawableLeft="@drawable/ic_baseline_account_circle_24"
+        android:drawablePadding="20dp"
+        android:gravity="center_vertical"
+        android:hint="Tên đăng nhập"
+        android:paddingLeft="18dp"
+        android:singleLine="true"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/regis_name" />
+
+    <EditText
+        android:id="@+id/regis_mail"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/border_6_white"
+        android:drawableLeft="@drawable/ic_baseline_mail_24"
+        android:drawablePadding="20dp"
+        android:gravity="center_vertical"
+        android:hint="Email "
+        android:paddingLeft="18dp"
+        android:singleLine="true"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/regis_username" />
+
+    <EditText
+        android:id="@+id/regis_password"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/border_6_white"
+        android:drawableLeft="@drawable/ic_baseline_visibility_24"
+        android:drawablePadding="20dp"
+        android:gravity="center_vertical"
+        android:hint="Mật khẩu đăng nhập"
+        android:inputType="textPassword"
+        android:paddingLeft="18dp"
+        android:singleLine="true"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/regis_mail" />
+
+    <EditText
+        android:id="@+id/regis_repassword"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/border_6_white"
+        android:drawableLeft="@drawable/ic_baseline_visibility_24"
+        android:drawablePadding="20dp"
+        android:gravity="center_vertical"
+        android:hint="Nhập lại mật khẩu"
+        android:inputType="textPassword"
+        android:paddingLeft="18dp"
+        android:singleLine="true"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/regis_password" />
+
+    <TextView
+        android:id="@+id/register"
+        android:layout_width="200dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="12dp"
+        android:background="@drawable/border_login_blue"
+        android:gravity="center"
+        android:text="Đăng ký"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/regis_repassword" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

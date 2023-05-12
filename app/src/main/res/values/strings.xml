@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BuyWithMe</string>
+    <string name="facebook_app_id">1469965626776806</string>
+    <string name="fb_login_protocol_scheme">fb1469965626776806</string>
+    <string name="facebook_client_token">757c8e491c7c2bf6f6ff347340a9ed3e</string>
+    <string name="google_map_key">AIzaSyDi9tZx2EHgDWMR0lYDDOEuUREYUXJAirI</string>
+</resources>

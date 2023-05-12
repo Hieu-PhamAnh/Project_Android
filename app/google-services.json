@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "779847522133",
+    "firebase_url": "https://buywithme-aab54-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "buywithme-aab54",
+    "storage_bucket": "buywithme-aab54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779847522133:android:b04f086c0cf1ca0b9681dc",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779847522133-n6s8k6l90r3v6n0bacjk52768hi7422j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login",
+            "certificate_hash": "10575d040870ab525457758b6825b11379b4c6bc"
+          }
+        },
+        {
+          "client_id": "779847522133-md9eogd71phdghe5467iocfrepochg47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9USzGvu4DSzR_8PcLeHwIIdGF4tDltWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779847522133-md9eogd71phdghe5467iocfrepochg47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

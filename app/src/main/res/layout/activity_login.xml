@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context="com.example.login.activity.user.LoginActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:drawablePadding="50dp"
+        android:text="ĐĂNG NHẬP"
+        android:textColor="@color/black"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/nor_user"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <EditText
+        android:id="@+id/nor_user"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="70dp"
+        android:background="@drawable/border_6_white"
+        android:drawableLeft="@drawable/ic_baseline_account_circle_24"
+        android:drawablePadding="20dp"
+        android:gravity="center_vertical"
+        android:hint="Tài khoản"
+        android:paddingLeft="18dp"
+        android:singleLine="true"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textView" />
+
+    <EditText
+        android:id="@+id/nor_pass"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/border_6_white"
+        android:drawableLeft="@drawable/ic_baseline_visibility_24"
+        android:drawablePadding="20dp"
+        android:gravity="center_vertical"
+        android:hint="Mật khẩu"
+        android:inputType="textPassword"
+        android:paddingLeft="18dp"
+        android:singleLine="true"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/nor_user" />
+
+    <TextView
+        android:id="@+id/nor_login"
+        android:layout_width="225dp"
+        android:layout_height="45dp"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/border_6_blue"
+        android:drawableRight="@drawable/ic_baseline_login_24"
+        android:drawablePadding="20dp"
+        android:gravity="center"
+        android:paddingLeft="75dp"
+        android:paddingRight="18dp"
+        android:text="Đăng nhập"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/nor_pass" />
+
+    <TextView
+        android:id="@+id/nor_reg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:gravity="right"
+        android:paddingRight="20dp"
+        android:text="Create account"
+        android:textColor="@color/blue"
+        android:textStyle="bold"
+        app:layout_constraintTop_toBottomOf="@id/nor_login" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/DiGioiTheDong/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1175" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/DiGioiTheDong/app/src/main/res/drawable/border_6_purple.xml" value="0.1175" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/DiGioiTheDong/app/src/main/res/drawable/ic_baseline_cancel_24.xml" value="0.1175" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/DiGioiTheDong/app/src/main/res/drawable/ic_baseline_photo_camera_24.xml" value="0.1125" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/DiGioiTheDong/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.1125" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/DiGioiTheDong/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/DiGioiTheDong/app/src/main/res/layout/activity_login_option.xml" value="0.25" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/DiGioiTheDong/app/src/main/res/layout/activity_main.xml" value="0.3444639718804921" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/DiGioiTheDong/app/src/main/res/layout/additem_activity.xml" value="0.33" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/DiGioiTheDong/app/src/main/res/layout/adminitemdetail_activity.xml" value="0.2014388489208633" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/DiGioiTheDong/app/src/main/res/layout/cart_activity.xml" value="0.22" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/DiGioiTheDong/app/src/main/res/layout/editorder_activity.xml" value="0.33" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/DiGioiTheDong/app/src/main/res/layout/food_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/DiGioiTheDong/app/src/main/res/layout/fuction_activity.xml" value="0.33" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/DiGioiTheDong/app/src/main/res/layout/function_activity.xml" value="0.25" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/DiGioiTheDong/app/src/main/res/layout/item.xml" value="0.5" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/DiGioiTheDong/app/src/main/res/layout/itemdetail_activity.xml" value="0.22" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/DiGioiTheDong/app/src/main/res/layout/order.xml" value="0.25" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/DiGioiTheDong/app/src/main/res/layout/orderedorderitem.xml" value="0.5" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/DiGioiTheDong/app/src/main/res/layout/orderitem.xml" value="0.22" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/DiGioiTheDong/app/src/main/res/layout/signup_activity.xml" value="0.13854166666666667" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/DiGioiTheDong/app/src/main/res/layout/watchorder_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/Login/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/Login/app/src/main/res/drawable-v24/icon_login.xml" value="0.2115" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/Login/app/src/main/res/drawable/background.xml" value="0.1125" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/Login/app/src/main/res/drawable/border_6_blue.xml" value="0.2175" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/Login/app/src/main/res/drawable/border_6_purple.xml" value="0.209" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/Login/app/src/main/res/drawable/gradient_background.xml" value="0.1755" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/Login/app/src/main/res/drawable/ic_baseline_mail_24.xml" value="0.1125" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/Login/app/src/main/res/drawable/ic_baseline_visibility_24.xml" value="0.209" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/Login/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/Login/app/src/main/res/drawable/icon_insta.xml" value="0.1" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/Login/app/src/main/res/drawable/icon_mail.xml" value="0.209" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/Login/app/src/main/res/drawable/vien.xml" value="0.1755" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/Login/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/Login/app/src/main/res/layout/activity_login_option.xml" value="0.33" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/Login/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTMOBILE/Login/app/src/main/res/layout/signup_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTPM/DiGioiTheDong/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.2115" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTPM/DiGioiTheDong/app/src/main/res/drawable/ic_baseline_photo_camera_24.xml" value="0.2115" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTPM/DiGioiTheDong/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTPM/DiGioiTheDong/app/src/main/res/layout/activity_login_option.xml" value="0.5" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTPM/DiGioiTheDong/app/src/main/res/layout/additem_activity.xml" value="0.16802536231884058" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTPM/DiGioiTheDong/app/src/main/res/layout/cart_activity.xml" value="0.25" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTPM/DiGioiTheDong/app/src/main/res/layout/item.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/04032/Desktop/PTIT/PTPM/DiGioiTheDong/app/src/main/res/layout/map_activity.xml" value="0.1331521739130435" />
+        <entry key="..\:/Users/Admin/Desktop/Login/app/src/main/res/drawable-v24/icon_login.xml" value="0.1285" />
+        <entry key="..\:/Users/Admin/Desktop/Login/app/src/main/res/drawable/border_6_blue.xml" value="0.3415" />
+        <entry key="..\:/Users/Admin/Desktop/Login/app/src/main/res/drawable/border_6_purple.xml" value="0.3415" />
+        <entry key="..\:/Users/Admin/Desktop/Login/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3415" />
+        <entry key="..\:/Users/Admin/Desktop/Login/app/src/main/res/drawable/icon_fb.xml" value="0.3415" />
+        <entry key="..\:/Users/Admin/Desktop/Login/app/src/main/res/layout/activity_login.xml" value="0.225" />
+        <entry key="..\:/Users/Admin/Desktop/Login/app/src/main/res/layout/activity_login_option.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Admin/Desktop/Login/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
